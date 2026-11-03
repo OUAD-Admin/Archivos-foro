@@ -696,7 +696,7 @@
 .ouat-admin-rule-number{display:flex;align-items:flex-start;justify-content:center;padding-top:1px;color:var(--ouad-gold);font-family:var(--ouad-accent);font-size:13px;line-height:1.4;border-right:1px solid var(--ouad-line-gold);}
 .ouat-admin-rule-content{display:block;min-width:0;padding-left:2px;}
 .ouat-admin-rule-title{display:block;margin-bottom:5px;color:var(--ouad-text);font-size:10px;font-weight:900;line-height:1.35;letter-spacing:.08em;text-transform:uppercase;}
-.ouat-admin-rule-text{display:block;color:var(--ouad-text-soft);font-size:11px;font-weight:500;line-height:1.72;}
+.ouat-admin-rule-text{display:block;color:var(--ouad-text-soft);font-size:13px;font-weight:500;line-height:1.4;text-align:justify;}
 .ouat-admin-rules-foot{position:relative;z-index:1;display:flex;align-items:center;justify-content:space-between;gap:14px;padding:13px 20px;color:var(--ouad-text-soft);font-size:8px;font-weight:800;line-height:1.4;letter-spacing:.16em;text-transform:uppercase;border-top:1px solid var(--ouad-line-gold);background:linear-gradient(90deg,rgba(24,55,77,.54),rgba(6,13,19,.92));}
 .ouat-admin-rules-foot b{color:var(--ouad-gold-soft);font-weight:900;}
 
